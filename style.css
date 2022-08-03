@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(12, 0, 29);
+}
+
+button {
+    margin: 5vw;
+    border: none;
+    box-shadow: inset 0 0 15px -10px white, 0 0 10px -5px white;
+    background: linear-gradient(0deg, rgba(201, 0, 255, 1) 10%, rgba(38, 0, 255, 1) 27%, rgba(78, 255, 0, 1) 46%, rgba(254, 255, 0, 1) 64%, rgba(255, 166, 0, 1) 80%, rgba(255, 0, 0, 1) 95%);
+    border-radius: 3px;
+    display: inline-block;
+    cursor: pointer;
+    color: white;
+    text-shadow: 0 0 5px black;
+    font-family: Arial;
+    font-size: 2rem;
+    font-weight: bold;
+    padding: 1rem 1.5rem;
+    transition: 500ms ease-in-out, margin 0ms;
+}
+
+button:hover {
+    background: linear-gradient(0deg, rgba(201, 0, 255, 1) 10%, rgba(38, 0, 255, 1) 27%, rgba(78, 255, 0, 1) 46%, rgba(254, 255, 0, 1) 64%, rgba(255, 166, 0, 1) 80%, rgba(255, 0, 0, 1) 95%);
+    box-shadow: inset 0 0 15px -10px white, 0 0 20px 0 white;
+}
