@@ -1,4 +1,4 @@
-# Rainbownize
+# Rainbownize 🌈
 ---
 
 (English)
