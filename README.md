@@ -16,6 +16,7 @@
 ---
 
 (Portuguese)
+
 **Pequena extensão criada por diversão!**
 
 ## Para Instalar
